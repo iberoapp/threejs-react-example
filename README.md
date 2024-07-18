@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Proyecto Ejemplo: ReactJS y ThreeJS 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es un ejemplo de cómo usar ReactJS junto con ThreeJS para crear aplicaciones web interactivas y visualmente atractivas. Fue desarrollado por [ITFB Consulting](https://itfbconsulting.com/desarrollo-de-apps/), especialistas en desarrollo de aplicaciones personalizadas.
 
-## Available Scripts
+## Vista Previa 🎥
 
-In the project directory, you can run:
+![Vista Previa](https://via.placeholder.com/800x400?text=Vista+Previa+de+la+Aplicación)
 
-### `npm start`
+## Introducción
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este proyecto está diseñado para ayudarte a comenzar rápidamente con un entorno de desarrollo utilizando ReactJS y ThreeJS. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instalación
 
-### `npm test`
+### Requisitos Previos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de empezar, asegúrate de tener instalado [pnpm](https://pnpm.io/):
 
-### `npm run build`
+```bash
+npm install -g pnpm
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Pasos de Instalación
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clona este repositorio:**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    ```bash
+    git clone https://github.com/tu-usuario/tu-repo-ejemplo.git
+    cd tu-repo-ejemplo
+    ```
 
-### `npm run eject`
+2. **Instala las dependencias:**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ```bash
+    pnpm install
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. **Inicia la aplicación:**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    ```bash
+    pnpm start
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    La aplicación se abrirá automáticamente en tu navegador en [http://localhost:3000](http://localhost:3000).
 
-## Learn More
+## Scripts Disponibles
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+En el directorio del proyecto, puedes ejecutar los siguientes comandos:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### `pnpm start`
 
-### Code Splitting
+Inicia la aplicación en modo de desarrollo.\
+Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### `pnpm test`
 
-### Analyzing the Bundle Size
+Inicia el corredor de pruebas en modo interactivo.\
+Para más información, visita la sección sobre [running tests](https://facebook.github.io/create-react-app/docs/running-tests).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### `pnpm build`
 
-### Making a Progressive Web App
+Construye la aplicación para producción en la carpeta `build`.\
+Optimiza la construcción para el mejor rendimiento.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### `pnpm eject`
 
-### Advanced Configuration
+**Nota: esta es una operación irreversible. Una vez que `eject`, no puedes volver atrás!**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Si no estás satisfecho con la herramienta de construcción y las opciones de configuración, puedes `eject` en cualquier momento. Este comando eliminará la dependencia única de construcción de tu proyecto.
 
-### Deployment
+## Contacto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Para más información y servicios personalizados de desarrollo de aplicaciones, visita [ITFB Consulting](https://itfbconsulting.com/desarrollo-de-apps/).
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Esperamos que disfrutes explorando y utilizando este proyecto! 🚀✨
+
+![ITFB Consulting](https://via.placeholder.com/800x200?text=ITFB+Consulting)
+
+---
+
+¡No olvides darle una estrella ⭐ a nuestro repositorio si te gusta este proyecto!
+
+![GitHub Stars](https://via.placeholder.com/150x30?text=⭐+Dale+una+estrella)
+
+---
