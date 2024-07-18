@@ -4,11 +4,11 @@ Este proyecto es un ejemplo de cómo usar ReactJS junto con ThreeJS para crear a
 
 ## Vista Previa 🎥
 
-![Vista Previa](https://via.placeholder.com/800x400?text=Vista+Previa+de+la+Aplicación)
+![Vista Previa](https://itfb.b-cdn.net/github/Threejs%20Ejemplo.JPG)
 
 ## Introducción
 
-Este proyecto está diseñado para ayudarte a comenzar rápidamente con un entorno de desarrollo utilizando ReactJS y ThreeJS. 
+Este proyecto está diseñado para ayudarte a comenzar rápidamente con un entorno de desarrollo utilizando ReactJS y ThreeJS.
 
 ## Instalación
 
@@ -25,8 +25,8 @@ npm install -g pnpm
 1. **Clona este repositorio:**
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-repo-ejemplo.git
-    cd tu-repo-ejemplo
+    git clone https://github.com/iberoapp/threejs-react-example.git
+    cd threejs-react-example
     ```
 
 2. **Instala las dependencias:**
@@ -62,12 +62,6 @@ Para más información, visita la sección sobre [running tests](https://faceboo
 Construye la aplicación para producción en la carpeta `build`.\
 Optimiza la construcción para el mejor rendimiento.
 
-### `pnpm eject`
-
-**Nota: esta es una operación irreversible. Una vez que `eject`, no puedes volver atrás!**
-
-Si no estás satisfecho con la herramienta de construcción y las opciones de configuración, puedes `eject` en cualquier momento. Este comando eliminará la dependencia única de construcción de tu proyecto.
-
 ## Contacto
 
 Para más información y servicios personalizados de desarrollo de aplicaciones, visita [ITFB Consulting](https://itfbconsulting.com/desarrollo-de-apps/).
@@ -76,12 +70,8 @@ Para más información y servicios personalizados de desarrollo de aplicaciones,
 
 ¡Esperamos que disfrutes explorando y utilizando este proyecto! 🚀✨
 
-![ITFB Consulting](https://via.placeholder.com/800x200?text=ITFB+Consulting)
-
 ---
 
 ¡No olvides darle una estrella ⭐ a nuestro repositorio si te gusta este proyecto!
 
-![GitHub Stars](https://via.placeholder.com/150x30?text=⭐+Dale+una+estrella)
-
----
+[![GitHub Stars](https://via.placeholder.com/150x30?text=⭐+Dale+una+estrella)](https://github.com/iberoapp/threejs-react-example)
