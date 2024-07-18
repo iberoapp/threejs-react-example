@@ -4,7 +4,9 @@ Este proyecto es un ejemplo de cómo usar ReactJS junto con ThreeJS para crear a
 
 ## Vista Previa 🎥
 
-![Vista Previa](https://itfb.b-cdn.net/github/Threejs%20Ejemplo.JPG)
+[![Vista Previa](https://itfb.b-cdn.net/github/ThreeJS%20Ejemplo.gif)](https://threejs-react-example.vercel.app)
+
+<iframe src="https://threejs-react-example.vercel.app" style="width: 100%; height: 500px; border: none;"></iframe>
 
 ## Introducción
 
@@ -64,7 +66,7 @@ Optimiza la construcción para el mejor rendimiento.
 
 ## Contacto
 
-Para más información y servicios personalizados de desarrollo de aplicaciones, visita [ITFB Consulting](https://itfbconsulting.com/desarrollo-de-apps/).
+Para más información y servicios personalizados de desarrollo de aplicaciones, visita [ITFB Consulting](https://itfbconsulting.com/#contact).
 
 ---
 
