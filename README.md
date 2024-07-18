@@ -6,7 +6,7 @@ Este proyecto es un ejemplo de cómo usar ReactJS junto con ThreeJS para crear a
 
 [![Vista Previa](https://itfb.b-cdn.net/github/ThreeJS%20Ejemplo.gif)](https://threejs-react-example.vercel.app)
 
-Puedes ver un ejemplo en directo en la URL: "https://threejs-react-example.vercel.app"
+Puedes ver un ejemplo en directo en la URL: https://threejs-react-example.vercel.app
 
 ## Introducción
 
